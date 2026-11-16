@@ -2,10 +2,10 @@
   "schema": 1,
   "channel": "beta",
   "packageName": "com.fitcalendar.app",
-  "version": "2.10.2",
-  "versionCode": 19,
-  "notes": "提升本地视频的启动和进度恢复速度。打开有示范的动作时直接进入示范页。遇到读取卡住时提前换用包内文件，首帧出现前保留封面，并在确实需要等待或重试时给出文字提示。\n\n将动作库的肌群筛选收成一行。动作要点、字幕和列表文字更易读，阅读长教程时也可以直接切换分栏。",
-  "bytes": 26164031,
-  "sha256": "fdcf281f9f4b133cdd3eaeb6345ea7d3659a798cf1a606cd54557d9d27c9faaa",
-  "url": "https://github.com/altale0218/fitcalendar-releases/releases/download/fitcalendar-beta-19/fitcalendar-beta-19-fdcf281f9f4b133c.apk"
+  "version": "2.10.3",
+  "versionCode": 20,
+  "notes": "更换平板哑铃卧推、坐姿哑铃肩推和杠铃罗马尼亚硬拉的离线示范，能更清楚地看见肘腕对齐、上举轨迹和髋部后移。示范保持简体中文、英文和西班牙文字幕可切换。\n\n在动作要点中增加进阶视频入口。首批包含哑铃卧推、杠铃卧推和坐姿腿屈伸，标注平台、作者、语言和建议观察的细节。",
+  "bytes": 37985279,
+  "sha256": "16f9e54d2a39184edf55b50a93c1df6e67801817acab59b14033d4bcd2f7f6a5",
+  "url": "https://github.com/altale0218/fitcalendar-releases/releases/download/fitcalendar-beta-20/fitcalendar-beta-20-16f9e54d2a39184e.apk"
 }
