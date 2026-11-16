@@ -2,10 +2,10 @@
   "schema": 1,
   "channel": "beta",
   "packageName": "com.fitcalendar.app",
-  "version": "2.5.1",
-  "versionCode": 11,
-  "notes": "应用内更新已配置 Cloudflare、Gitee 和 GitHub 三个来源。可以自动选择，也可以在设置中手动指定来源。测试版用于验证更新清单、下载校验和 Android 安装流程。\n\n首次从 2.5 切换到支持在线更新的版本时，请手动覆盖安装。已使用相同测试签名的版本可以保留原有的训练和饮食记录。",
-  "bytes": 25891444,
-  "sha256": "ef6f939ee795d9f99f09ba89d28aa6c8e853eee9e92ceb51a4b9022fec39f646",
-  "url": "https://github.com/altale0218/fitcalendar-releases/releases/download/fitcalendar-beta-11/fitcalendar-beta-11-ef6f939ee795d9f9.apk"
+  "version": "2.6",
+  "versionCode": 12,
+  "notes": "动作库新增杠铃站姿推举、双手壶铃摆动和 EZ 杆弯举共 4 段男性实拍。EZ 杆对比教程支持按章节观看握法、完整重复和直杆变式。新视频随应用离线播放，带中、英、西三语动作提示。\n\n动作要点页增加带封面的精选视频入口。播放器增加循环播放与当前章节高亮，保留慢放和三语字幕。壶铃摆动可记录重量和组数，附中英双语技术要点和风险提示。",
+  "bytes": 25947534,
+  "sha256": "973411109b89207f6fb2ad219af5c565fda5ec11f950a571682df223d5048fe3",
+  "url": "https://github.com/altale0218/fitcalendar-releases/releases/download/fitcalendar-beta-12/fitcalendar-beta-12-973411109b89207f.apk"
 }
