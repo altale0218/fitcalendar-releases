@@ -2,10 +2,10 @@
   "schema": 1,
   "channel": "beta",
   "packageName": "com.fitcalendar.app",
-  "version": "2.10.5",
-  "versionCode": 22,
-  "notes": "更换蝴蝶机夹胸的 720p 侧面示范，新增悬垂屈膝收腹。杠铃划船、阿诺德推举和坐姿弹力带下拉可从正面或斜侧方观察，并可点击章节换角度。\n\n训练表单增删一组时只刷新当前动作，保留其他动作正在编辑的字段。选择菜单按需显示选项。训练趋势的快捷入口会带入所选动作，力量训练从一组开始，有氧可直接记时长。",
-  "bytes": 55172754,
-  "sha256": "514b9f62751ceae02924801983fa950420280ebdbed4d997c3e908823fcd1139",
-  "url": "https://github.com/altale0218/fitcalendar-releases/releases/download/fitcalendar-beta-22/fitcalendar-beta-22-514b9f62751ceae0.apk"
+  "version": "2.10.6",
+  "versionCode": 23,
+  "notes": "杠铃卧推短示范改用头端近景，便于观察握距和肘部对称性。新增上斜杠铃卧推与单臂哑铃牧师凳弯举，提供中文字幕、英文和西班牙文字幕。\n\n动作库可同时按部位、器械和离线视频筛选。字幕紧贴视频显示，小屏查看时能少滚一次。新增悬垂举腿、哑铃飞鸟和绳索夹胸的进阶视频入口，坐姿哑铃推肩可直达独立教程。\n\n从原片重新制作平板哑铃卧推、坐姿哑铃肩推和罗马尼亚硬拉的 720p 示范，缩小文件并改善强光细节。Android 只会记住快速读出首帧数据的备用读取方式。",
+  "bytes": 56251904,
+  "sha256": "8a9179b8ab234ed072dbc0e43f82af8b2e1c586707f7827105322bb78e5c78c2",
+  "url": "https://github.com/altale0218/fitcalendar-releases/releases/download/fitcalendar-beta-23/fitcalendar-beta-23-8a9179b8ab234ed0.apk"
 }
