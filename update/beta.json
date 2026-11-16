@@ -2,10 +2,10 @@
   "schema": 1,
   "channel": "beta",
   "packageName": "com.fitcalendar.app",
-  "version": "2.6",
-  "versionCode": 12,
-  "notes": "动作库新增杠铃站姿推举、双手壶铃摆动和 EZ 杆弯举共 4 段男性实拍。EZ 杆对比教程支持按章节观看握法、完整重复和直杆变式。新视频随应用离线播放，带中、英、西三语动作提示。\n\n动作要点页增加带封面的精选视频入口。播放器增加循环播放与当前章节高亮，保留慢放和三语字幕。壶铃摆动可记录重量和组数，附中英双语技术要点和风险提示。",
-  "bytes": 25947534,
-  "sha256": "973411109b89207f6fb2ad219af5c565fda5ec11f950a571682df223d5048fe3",
-  "url": "https://github.com/altale0218/fitcalendar-releases/releases/download/fitcalendar-beta-12/fitcalendar-beta-12-973411109b89207f.apk"
+  "version": "2.7",
+  "versionCode": 13,
+  "notes": "开启应用或返回前台时自动检查更新。关闭训练记录等正在使用的窗口后，应用会提示发现的新版本。可在更新设置关闭自动检查，下载前仍需要确认。\n\nAndroid 本地视频支持直接读取安装包内的片段，进入视频页后提前缓冲。重新剪辑和编码 EZ 杆弯举的短示范与详细教程，让握位和手肘更易观察。",
+  "bytes": 26125930,
+  "sha256": "a75a0bb09741c053ffc9adbd83a76afe3f5e288e545d2936199372cfb6b80c37",
+  "url": "https://github.com/altale0218/fitcalendar-releases/releases/download/fitcalendar-beta-13/fitcalendar-beta-13-a75a0bb09741c053.apk"
 }
