@@ -2,10 +2,10 @@
   "schema": 1,
   "channel": "beta",
   "packageName": "com.fitcalendar.app",
-  "version": "2.10.4",
-  "versionCode": 21,
-  "notes": "新增史密斯机深蹲、史密斯机站姿提踵、绳索锤式弯举、哑铃三头后伸、双杠臂屈伸和杠铃臀推的 720p 离线示范。六段实拍都可切换中英西三种字幕。\n\n从示范页可直接跳到进阶视频。增加平板哑铃飞鸟、悬垂举腿和罗马尼亚硬拉的原作者教学链接。\n\nAndroid 优先直接打开包内视频，遇到读取异常可切换读取方式。饮食页压缩空餐次的高度，今日新记录会根据时间建议餐次，保存前可自行修改。",
-  "bytes": 49034307,
-  "sha256": "88ef304032cc8c658e38128aa221aa88c47f9ead9234d6deb01ce69ce1e11e71",
-  "url": "https://github.com/altale0218/fitcalendar-releases/releases/download/fitcalendar-beta-21/fitcalendar-beta-21-88ef304032cc8c65.apk"
+  "version": "2.10.5",
+  "versionCode": 22,
+  "notes": "更换蝴蝶机夹胸的 720p 侧面示范，新增悬垂屈膝收腹。杠铃划船、阿诺德推举和坐姿弹力带下拉可从正面或斜侧方观察，并可点击章节换角度。\n\n训练表单增删一组时只刷新当前动作，保留其他动作正在编辑的字段。选择菜单按需显示选项。训练趋势的快捷入口会带入所选动作，力量训练从一组开始，有氧可直接记时长。",
+  "bytes": 55172754,
+  "sha256": "514b9f62751ceae02924801983fa950420280ebdbed4d997c3e908823fcd1139",
+  "url": "https://github.com/altale0218/fitcalendar-releases/releases/download/fitcalendar-beta-22/fitcalendar-beta-22-514b9f62751ceae0.apk"
 }
