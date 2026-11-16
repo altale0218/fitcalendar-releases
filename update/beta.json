@@ -2,10 +2,10 @@
   "schema": 1,
   "channel": "beta",
   "packageName": "com.fitcalendar.app",
-  "version": "2.8",
-  "versionCode": 14,
-  "notes": "新增 10 段男性实拍，共 51 段离线视频。补上腿屈伸、坐姿腿弯举、坐姿提踵、杠铃划船、辅助引体、绳索侧平举、绳索下压、牧师凳弯举和仰卧臂屈伸。\n\n新增约 50 秒的徒手深蹲详细教程，保留原声，分段讲解起始姿势、膝盖方向和脚掌支撑。新增素材随 APK 安装，支持简体中文、英文和西班牙文字幕。\n\n从原片重新编码传统硬拉示范，提升画面清晰度。",
-  "bytes": 26151990,
-  "sha256": "bdf2c945481a50e917560051f83b7e6f4aa47bf936980628fa2c8926889586e8",
-  "url": "https://github.com/altale0218/fitcalendar-releases/releases/download/fitcalendar-beta-14/fitcalendar-beta-14-bdf2c945481a50e9.apk"
+  "version": "2.8.1",
+  "versionCode": 15,
+  "notes": "改进更新检查。稳定版尚未发布时会显示具体原因。测试版安装用户可以直接切换并检查测试版，网络或来源故障仍会提示重试。",
+  "bytes": 26152446,
+  "sha256": "5cf8cc9f9cb2bbaea3de27e174e519406921a1a3a21ad0a12ad0e6291e0f33d5",
+  "url": "https://github.com/altale0218/fitcalendar-releases/releases/download/fitcalendar-beta-15/fitcalendar-beta-15-5cf8cc9f9cb2bbae.apk"
 }
