@@ -1,0 +1,11 @@
+{
+  "schema": 1,
+  "channel": "beta",
+  "packageName": "com.fitcalendar.app",
+  "version": "2.5.1",
+  "versionCode": 11,
+  "notes": "应用内更新已配置 Cloudflare、Gitee 和 GitHub 三个来源。可以自动选择，也可以在设置中手动指定来源。测试版用于验证更新清单、下载校验和 Android 安装流程。\n\n首次从 2.5 切换到支持在线更新的版本时，请手动覆盖安装。已使用相同测试签名的版本可以保留原有的训练和饮食记录。",
+  "bytes": 25891444,
+  "sha256": "ef6f939ee795d9f99f09ba89d28aa6c8e853eee9e92ceb51a4b9022fec39f646",
+  "url": "https://github.com/altale0218/fitcalendar-releases/releases/download/fitcalendar-beta-11/fitcalendar-beta-11-ef6f939ee795d9f9.apk"
+}
