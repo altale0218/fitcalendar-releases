@@ -2,10 +2,10 @@
   "schema": 1,
   "channel": "beta",
   "packageName": "com.fitcalendar.app",
-  "version": "2.10.7",
-  "versionCode": 24,
-  "notes": "日历直接显示当天的训练计划与记录数。新增「沿用上次训练」，可以把上一份动作、组数、重量和休息时间带入当天草稿，再按当天情况调整。\n\n新增划船机、侧平板支撑、直杆弯举、哑铃杯式深蹲、坐姿器械推胸、分腿站姿单臂哑铃划船的离线实拍，附中文、英文和西班牙文字幕。划船机与直杆弯举增加进阶教程入口。",
-  "bytes": 64472508,
-  "sha256": "5e01a20eb16d9f02b15daaeadf9ca8e0d3593dccfe92d8244c1d4e88c3c9d9a6",
-  "url": "https://github.com/altale0218/fitcalendar-releases/releases/download/fitcalendar-beta-24/fitcalendar-beta-24-5e01a20eb16d9f02.apk"
+  "version": "2.10.8",
+  "versionCode": 25,
+  "notes": "卧推详细教程扩展至 3 分 13 秒，画面为 720p，保留原讲解。可按脚掌、常见错误、握距、杠路、肘部和保护者示范跳转。中文、英文和西班牙文字幕均可离线切换。\n\n新增悬垂直腿触杠的近景和全身视角。双哑铃俯身划船的正面和侧面分别占满画面，可更清楚地观察肘部与躯干。动作库增加哑铃飞鸟和蝴蝶机反向飞鸟的进阶教程入口。\n\n自动更新时，有两个来源返回同一新版即可先查看更新日志。其它来源仍会检查，检查结束后可确认下载。",
+  "bytes": 91797404,
+  "sha256": "b31dcc78fcbe771a246271bd16014771f2035eebc3e7f0fd11842836592db276",
+  "url": "https://github.com/altale0218/fitcalendar-releases/releases/download/fitcalendar-beta-25/fitcalendar-beta-25-b31dcc78fcbe771a.apk"
 }
