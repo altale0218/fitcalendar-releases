@@ -2,10 +2,10 @@
   "schema": 1,
   "channel": "beta",
   "packageName": "com.fitcalendar.app",
-  "version": "2.10.1",
-  "versionCode": 18,
-  "notes": "启动时自动检查所选更新通道。发现新版后，弹窗直接显示版本、更新日志和下载来源。已经下载旧版安装包时，也会继续检查是否有更高版本。\n\n更新动作库与离线播放器。53 段视频随包安装，44 段达到 720p，支持简体中文、英文和西班牙文字幕。打开动作页会提前读取当前视频，首帧出现前保留封面。拖动进度遇到读取异常时，播放器可换用包内文件并保留目标进度。\n\n动作列表新增预览图，新增绳索夹胸和悬垂举腿实拍。下拉菜单使用浮层展开，表单位置保持稳定。",
-  "bytes": 26162739,
-  "sha256": "35561d80be935f9e7d2e66f51cac63f688036fc6ccc87fb3a9260aae0ba41cb5",
-  "url": "https://github.com/altale0218/fitcalendar-releases/releases/download/fitcalendar-beta-18/fitcalendar-beta-18-35561d80be935f9e.apk"
+  "version": "2.10.2",
+  "versionCode": 19,
+  "notes": "提升本地视频的启动和进度恢复速度。打开有示范的动作时直接进入示范页。遇到读取卡住时提前换用包内文件，首帧出现前保留封面，并在确实需要等待或重试时给出文字提示。\n\n将动作库的肌群筛选收成一行。动作要点、字幕和列表文字更易读，阅读长教程时也可以直接切换分栏。",
+  "bytes": 26164031,
+  "sha256": "fdcf281f9f4b133cdd3eaeb6345ea7d3659a798cf1a606cd54557d9d27c9faaa",
+  "url": "https://github.com/altale0218/fitcalendar-releases/releases/download/fitcalendar-beta-19/fitcalendar-beta-19-fdcf281f9f4b133c.apk"
 }
