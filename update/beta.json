@@ -2,10 +2,10 @@
   "schema": 1,
   "channel": "beta",
   "packageName": "com.fitcalendar.app",
-  "version": "2.7",
-  "versionCode": 13,
-  "notes": "开启应用或返回前台时自动检查更新。关闭训练记录等正在使用的窗口后，应用会提示发现的新版本。可在更新设置关闭自动检查，下载前仍需要确认。\n\nAndroid 本地视频支持直接读取安装包内的片段，进入视频页后提前缓冲。重新剪辑和编码 EZ 杆弯举的短示范与详细教程，让握位和手肘更易观察。",
-  "bytes": 26125930,
-  "sha256": "a75a0bb09741c053ffc9adbd83a76afe3f5e288e545d2936199372cfb6b80c37",
-  "url": "https://github.com/altale0218/fitcalendar-releases/releases/download/fitcalendar-beta-13/fitcalendar-beta-13-a75a0bb09741c053.apk"
+  "version": "2.8",
+  "versionCode": 14,
+  "notes": "新增 10 段男性实拍，共 51 段离线视频。补上腿屈伸、坐姿腿弯举、坐姿提踵、杠铃划船、辅助引体、绳索侧平举、绳索下压、牧师凳弯举和仰卧臂屈伸。\n\n新增约 50 秒的徒手深蹲详细教程，保留原声，分段讲解起始姿势、膝盖方向和脚掌支撑。新增素材随 APK 安装，支持简体中文、英文和西班牙文字幕。\n\n从原片重新编码传统硬拉示范，提升画面清晰度。",
+  "bytes": 26151990,
+  "sha256": "bdf2c945481a50e917560051f83b7e6f4aa47bf936980628fa2c8926889586e8",
+  "url": "https://github.com/altale0218/fitcalendar-releases/releases/download/fitcalendar-beta-14/fitcalendar-beta-14-bdf2c945481a50e9.apk"
 }
