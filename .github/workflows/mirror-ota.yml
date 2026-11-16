@@ -1,0 +1,25 @@
+name: Mirror FitCalendar releases
+on:
+  push:
+    branches: [main]
+    paths: [update/mirror-request.json]
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: fitcalendar-ota-publication
+  cancel-in-progress: false
+jobs:
+  mirror:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v6
+        with:
+          persist-credentials: false
+      - uses: actions/setup-node@v6
+        with:
+          node-version: '22'
+      - run: node scripts/mirror-cloudflare.mjs
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
