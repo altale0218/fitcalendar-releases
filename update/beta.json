@@ -2,10 +2,10 @@
   "schema": 1,
   "channel": "beta",
   "packageName": "com.fitcalendar.app",
-  "version": "2.10.3",
-  "versionCode": 20,
-  "notes": "更换平板哑铃卧推、坐姿哑铃肩推和杠铃罗马尼亚硬拉的离线示范，能更清楚地看见肘腕对齐、上举轨迹和髋部后移。示范保持简体中文、英文和西班牙文字幕可切换。\n\n在动作要点中增加进阶视频入口。首批包含哑铃卧推、杠铃卧推和坐姿腿屈伸，标注平台、作者、语言和建议观察的细节。",
-  "bytes": 37985279,
-  "sha256": "16f9e54d2a39184edf55b50a93c1df6e67801817acab59b14033d4bcd2f7f6a5",
-  "url": "https://github.com/altale0218/fitcalendar-releases/releases/download/fitcalendar-beta-20/fitcalendar-beta-20-16f9e54d2a39184e.apk"
+  "version": "2.10.4",
+  "versionCode": 21,
+  "notes": "新增史密斯机深蹲、史密斯机站姿提踵、绳索锤式弯举、哑铃三头后伸、双杠臂屈伸和杠铃臀推的 720p 离线示范。六段实拍都可切换中英西三种字幕。\n\n从示范页可直接跳到进阶视频。增加平板哑铃飞鸟、悬垂举腿和罗马尼亚硬拉的原作者教学链接。\n\nAndroid 优先直接打开包内视频，遇到读取异常可切换读取方式。饮食页压缩空餐次的高度，今日新记录会根据时间建议餐次，保存前可自行修改。",
+  "bytes": 49034307,
+  "sha256": "88ef304032cc8c658e38128aa221aa88c47f9ead9234d6deb01ce69ce1e11e71",
+  "url": "https://github.com/altale0218/fitcalendar-releases/releases/download/fitcalendar-beta-21/fitcalendar-beta-21-88ef304032cc8c65.apk"
 }
