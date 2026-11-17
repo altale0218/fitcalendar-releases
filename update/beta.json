@@ -2,10 +2,10 @@
   "schema": 1,
   "channel": "beta",
   "packageName": "com.fitcalendar.app",
-  "version": "2.10.9",
-  "versionCode": 26,
-  "notes": "提高日历、记录表单和视频字幕的字号。小屏空日期更紧凑。训练趋势突出当前动作与数据，补充有氧累计时长、单日最长时长与逐日记录。\n\n应用跨午夜时会刷新「今天」和所选时段的训练统计。正在编辑的日期及内容保留，浏览中的历史日期也保留。\n\n新增徒手卷腹侧面和窄距卧推头端实拍，两段附三语字幕。窄距卧推还可打开哔哩哔哩的完整教程。",
-  "bytes": 93171586,
-  "sha256": "b181c250768108e6902c2bab8d08aab48710ad4158ec9a9d5c8a9d4eccecad0e",
-  "url": "https://github.com/altale0218/fitcalendar-releases/releases/download/fitcalendar-beta-26/fitcalendar-beta-26-b181c250768108e6.apk"
+  "version": "2.11.2",
+  "versionCode": 29,
+  "notes": "更换蝴蝶机夹胸和标准俯卧撑的 720p 横屏示范及封面。蝴蝶机可看清两侧肩肘，俯卧撑从斜侧看完整身体排列。两段均有中文、英文和西班牙文字幕。\n\n加入教程续播、从头播放和章节跳转。动作库支持筛选离线视频，并补充前平举、屈膝收腹、哑铃弯举和反向蝴蝶机等示范及参考。\n\n窄屏两行即可选择所有训练部位。动作和组次在计时工具前面，保存按钮留在当前屏幕，弹出键盘时会让出输入空间。「沿用上次训练」按当前日期取最近一次的训练动作和组次。日期、统计和饮食卡片更容易看清。",
+  "bytes": 99538504,
+  "sha256": "60aa2be8de91dcd0c5427d7314bfe25495b1c37cf496e211157b94f2d5a73924",
+  "url": "https://github.com/altale0218/fitcalendar-releases/releases/download/fitcalendar-beta-29/fitcalendar-beta-29-60aa2be8de91dcd0.apk"
 }
