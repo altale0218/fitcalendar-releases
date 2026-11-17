@@ -2,10 +2,10 @@
   "schema": 1,
   "channel": "beta",
   "packageName": "com.fitcalendar.app",
-  "version": "2.10.8",
-  "versionCode": 25,
-  "notes": "卧推详细教程扩展至 3 分 13 秒，画面为 720p，保留原讲解。可按脚掌、常见错误、握距、杠路、肘部和保护者示范跳转。中文、英文和西班牙文字幕均可离线切换。\n\n新增悬垂直腿触杠的近景和全身视角。双哑铃俯身划船的正面和侧面分别占满画面，可更清楚地观察肘部与躯干。动作库增加哑铃飞鸟和蝴蝶机反向飞鸟的进阶教程入口。\n\n自动更新时，有两个来源返回同一新版即可先查看更新日志。其它来源仍会检查，检查结束后可确认下载。",
-  "bytes": 91797404,
-  "sha256": "b31dcc78fcbe771a246271bd16014771f2035eebc3e7f0fd11842836592db276",
-  "url": "https://github.com/altale0218/fitcalendar-releases/releases/download/fitcalendar-beta-25/fitcalendar-beta-25-b31dcc78fcbe771a.apk"
+  "version": "2.10.9",
+  "versionCode": 26,
+  "notes": "提高日历、记录表单和视频字幕的字号。小屏空日期更紧凑。训练趋势突出当前动作与数据，补充有氧累计时长、单日最长时长与逐日记录。\n\n应用跨午夜时会刷新「今天」和所选时段的训练统计。正在编辑的日期及内容保留，浏览中的历史日期也保留。\n\n新增徒手卷腹侧面和窄距卧推头端实拍，两段附三语字幕。窄距卧推还可打开哔哩哔哩的完整教程。",
+  "bytes": 93171586,
+  "sha256": "b181c250768108e6902c2bab8d08aab48710ad4158ec9a9d5c8a9d4eccecad0e",
+  "url": "https://github.com/altale0218/fitcalendar-releases/releases/download/fitcalendar-beta-26/fitcalendar-beta-26-b181c250768108e6.apk"
 }
